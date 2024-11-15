@@ -1,5 +1,7 @@
 # oz-database-backend-practice
 
+pr
+
 ## ORM 초기 세팅
 
 ```bash
